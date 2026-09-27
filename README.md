@@ -141,7 +141,7 @@ small programs that remove a papercut I've personally hit too many times.
         <img src="https://opengraph.githubassets.com/1/BayonetArch/film-pivot-react" alt="Film Pivot">
       </a>
       <h3 align="center"><a href="https://github.com/BayonetArch/film-pivot-react"><img src="./assets/icons/clapper.svg" width="17" height="17" alt=""> Film Pivot</a></h3>
-      <p align="center"><strong>Movie search — a React rewrite of my older Film Pivot site</strong></p>
+      <p align="center"><strong>Search for movies and TV shows</strong></p>
       <p>
         Type a title, and the query is debounced against the OMDb API. Built with
         <b>React 19</b>, <b>Vite</b> and <code>react-router-dom</code>, styled with CSS Modules
