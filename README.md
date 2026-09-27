@@ -35,10 +35,9 @@
 
 I'm **Sudip Paudel** a full-stack and systems developer from **Nepal**.
 
-I work across the whole stack, but my main focus is **React + TypeScript** on one side of the
-wire and **Rust or C** on the other, and being the person who can debug both.
+I work across the whole stack, but my main focus is **React** and **TypeScript** on one side, **Rust** or **C** on the other and being the person who can debug both.
 
-I care about **readable code**, **honest benchmarks**, and shipping things that still make sense
+I care about **fast, clean and readable code**, while shipping things that still make sense
 six months later. Most of what I build is tooling, terminal utilities, editor configs, and
 small programs that remove a papercut I've personally hit too many times.
 
