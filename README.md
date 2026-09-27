@@ -31,9 +31,9 @@
 
 ---
 
-## 👋 Hey there
+## <img src="./assets/icons/about.svg" width="20" height="20" alt=""> Hey there
 
-I'm **Sudip Paudel** a full-stack and systems developer from **Nepal 🇳🇵**.
+I'm **Sudip Paudel** a full-stack and systems developer from **Nepal**.
 
 I work across the whole stack, but my main focus is **React + TypeScript** on one side of the
 wire and **Rust or C** on the other, and being the person who can debug both.
@@ -44,7 +44,7 @@ small programs that remove a papercut I've personally hit too many times.
 
 ---
 
-## 🧰 Stack
+## <img src="./assets/icons/stack.svg" width="20" height="20" alt=""> Stack
 
 <img src="https://skillicons.dev/icons?i=rust,c,ts,js,lua,go,python,react,nextjs,tailwind,git,linux,gnubash,neovim&theme=dark" alt="stack">
 
@@ -52,7 +52,7 @@ small programs that remove a papercut I've personally hit too many times.
 
 ---
 
-## 📊 Stats
+## <img src="./assets/icons/stats.svg" width="20" height="20" alt=""> Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BayonetArch&theme=rose_pine" alt="profile details" width="320">
@@ -66,7 +66,7 @@ small programs that remove a papercut I've personally hit too many times.
 
 ---
 
-## 🚀 Featured work
+## <img src="./assets/icons/featured.svg" width="20" height="20" alt=""> Featured work
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ small programs that remove a papercut I've personally hit too many times.
       <a href="https://github.com/BayonetArch/hypr_zoomer">
         <img src="https://opengraph.githubassets.com/1/BayonetArch/hypr_zoomer" alt="Hypr Zoomer">
       </a>
-      <h3 align="center"><a href="https://github.com/BayonetArch/hypr_zoomer">🔍 Hypr Zoomer</a></h3>
+      <h3 align="center"><a href="https://github.com/BayonetArch/hypr_zoomer"><img src="./assets/icons/zoom.svg" width="17" height="17" alt=""> Hypr Zoomer</a></h3>
       <p align="center"><strong>High-performance screen magnifier & live annotator for Wayland compositors</strong></p>
       <p>
         A Wayland take on Tsoding's <code>boomer</code>. Physics-based zoom and panning with a
@@ -99,7 +99,7 @@ small programs that remove a papercut I've personally hit too many times.
       <a href="https://github.com/BayonetArch/tx_launch">
         <img src="https://opengraph.githubassets.com/1/BayonetArch/tx_launch" alt="Tx Launch">
       </a>
-      <h3 align="center"><a href="https://github.com/BayonetArch/tx_launch">🚀 Tx Launch</a></h3>
+      <h3 align="center"><a href="https://github.com/BayonetArch/tx_launch"><img src="./assets/icons/rocket.svg" width="17" height="17" alt=""> Tx Launch</a></h3>
       <p align="center"><strong>Launch Android apps by friendly name, straight from Termux</strong></p>
       <p>
         Type <code>playstore</code> instead of <code>com.android.vending</code>. Ships with an
@@ -122,7 +122,7 @@ small programs that remove a papercut I've personally hit too many times.
       <a href="https://github.com/BayonetArch/termux-mdwm">
         <img src="https://opengraph.githubassets.com/1/BayonetArch/termux-mdwm" alt="termux-mdwm">
       </a>
-      <h3 align="center"><a href="https://github.com/BayonetArch/termux-mdwm">🪟 termux-mdwm</a></h3>
+      <h3 align="center"><a href="https://github.com/BayonetArch/termux-mdwm"><img src="./assets/icons/window.svg" width="17" height="17" alt=""> termux-mdwm</a></h3>
       <p align="center"><strong>Minimal <code>dwm</code> setup for Termux with GPU acceleration</strong></p>
       <p>
         A tiled window manager for Android, running inside Termux. A minimal <code>dwm</code>
@@ -140,7 +140,7 @@ small programs that remove a papercut I've personally hit too many times.
       <a href="https://github.com/BayonetArch/film-pivot-react">
         <img src="https://opengraph.githubassets.com/1/BayonetArch/film-pivot-react" alt="Film Pivot">
       </a>
-      <h3 align="center"><a href="https://github.com/BayonetArch/film-pivot-react">🎬 Film Pivot</a></h3>
+      <h3 align="center"><a href="https://github.com/BayonetArch/film-pivot-react"><img src="./assets/icons/clapper.svg" width="17" height="17" alt=""> Film Pivot</a></h3>
       <p align="center"><strong>Movie search — a React rewrite of my older Film Pivot site</strong></p>
       <p>
         Type a title, and the query is debounced against the OMDb API. Built with
@@ -163,7 +163,7 @@ small programs that remove a papercut I've personally hit too many times.
   </tr>
 </table>
 
-### 🎥 Neo Kut (work in progress)
+### <img src="./assets/icons/nekout.svg" width="17" height="17" alt=""> Neo Kut (work in progress)
 
 A **native video editor written in Rust**, and my most ambitious project so far.
 Video pipeline via `gstreamer-rs`, GUI via `egui`, cross-platform windowing via `winit`.
@@ -175,11 +175,11 @@ It's still a solo WIP and not public yet, but the entire build is documented liv
 
 ---
 
-## 📦 crates.io
+## <img src="./assets/icons/crate.svg" width="20" height="20" alt=""> crates.io
 
 Five published crates mostly terminal plumbing, all MIT.
 
-| Crate | Description | 📦 Downloads |
+| Crate | Description | <img src="./assets/icons/download.svg" width="15" height="15" alt=""> Downloads |
 |---|---|---|
 | [`hypr_zoomer`](https://github.com/BayonetArch/hypr_zoomer) | Wayland screen magnification, zoom & live annotation | <img src="https://img.shields.io/crates/d/hypr_zoomer?style=flat-square&color=orange" alt="hypr_zoomer downloads"> |
 | [`simple_term_attr`](https://github.com/BayonetArch/simple_term_attr) | Terminal attributes. clear, move, colours | <img src="https://img.shields.io/crates/d/simple_term_attr?style=flat-square&color=orange" alt="simple_term_attr downloads"> |
@@ -189,7 +189,7 @@ Five published crates mostly terminal plumbing, all MIT.
 
 
 
-## 🧪 More experiments
+## <img src="./assets/icons/flask.svg" width="20" height="20" alt=""> More experiments
 
 Everything else I've been poking at small utilities, libs, and configs.
 
@@ -201,7 +201,7 @@ Everything else I've been poking at small utilities, libs, and configs.
 | [`simplert`](https://github.com/BayonetArch/simplert) | Minimal CLI alarm clock & timer for Linux | Rust |
 | [`cx.h`](https://github.com/BayonetArch/cx.h) | An essential single header file for C projects | C |
 | [`c-sims`](https://github.com/BayonetArch/c-sims) | Simulations in C | C |
-| [`termux-nvim-setup`](https://github.com/BayonetArch/termux-nvim-setup) | Neovim in Termux with LSP support ⭐ | Lua |
+| [`termux-nvim-setup`](https://github.com/BayonetArch/termux-nvim-setup) | Neovim in Termux with LSP support <img src="./assets/icons/featured.svg" width="14" height="14" alt=""> | Lua |
 | [`tx-dev`](https://github.com/BayonetArch/tx-dev) | Dev setup for Termux, with all the essential configs | Shell |
 | [`mini-react`](https://github.com/BayonetArch/mini-react) | Bootstraps a React project with clean state | Shell |
 | [`CleanTab`](https://github.com/BayonetArch/CleanTab) | Chrome new-tab with just a wallpaper, Rosé Pine theme | HTML |
@@ -211,15 +211,15 @@ Everything else I've been poking at small utilities, libs, and configs.
 
 
 
-## 📬 Say hi
+## <img src="./assets/icons/contact.svg" width="20" height="20" alt=""> Say hi
 
 Open to **freelance work** and **full-time roles** involving full-stack or systems engineering.
 
-- 🌐 [sudippaudel.info.np](https://sudippaudel.info.np) — portfolio & write-ups
-- 💻 [github.com/BayonetArch](https://github.com/BayonetArch) — code, mostly
-- 💼 [linkedin.com/in/sudip-paudel](https://www.linkedin.com/in/sudip-paudel-a149aa43a)
-- ✉️ [sudipxd123@gmail.com](mailto:sudipxd123@gmail.com)
-- 🎥 [Neo Kut devlog on YouTube](https://www.youtube.com/playlist?list=PLfAdp-IXqUzs)
+<img src="./assets/icons/globe.svg" width="16" height="16" alt="">[sudippaudel.info.np](https://sudippaudel.info.np) — portfolio & write-ups<br>
+<img src="./assets/icons/git.svg" width="16" height="16" alt="">[github.com/BayonetArch](https://github.com/BayonetArch) — code, mostly<br>
+<img src="./assets/icons/briefcase.svg" width="16" height="16" alt="">[linkedin.com/in/sudip-paudel](https://www.linkedin.com/in/sudip-paudel-a149aa43a)<br>
+<img src="./assets/icons/contact.svg" width="16" height="16" alt="">[sudipxd123@gmail.com](mailto:sudipxd123@gmail.com)<br>
+<img src="./assets/icons/play.svg" width="16" height="16" alt="">[Neo Kut devlog on YouTube](https://www.youtube.com/playlist?list=PLfAdp-IXqUzs)
 
 ---
 
