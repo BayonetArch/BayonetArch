@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1800&center=true&multiline=true&width=560&height=90&lines=rust+%E2%80%A6+c+%E2%80%A6+typescript+%E2%80%A6+lua+%E2%80%A6+shell%0Atermux+%E2%80%A6+wayland+%E2%80%A6+neovim+%E2%80%A6+tmux%0Abuilding+small+tools+that+don%27t+suck&vCenter=true"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1800&center=true&multiline=true&width=560&height=90&lines=rust+%E2%80%A6+c+%E2%80%A6+typescript+%E2%80%A6+lua+%E2%80%A6+shell%0Atermux+%E2%80%A6+wayland+%E2%80%A6+neovim+%E2%80%A6+tmux&vCenter=true"
     alt="rust / termux / building small tools"
     width="480">
 </p>
