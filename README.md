@@ -27,22 +27,19 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/BayonetArch?style=flat-square&logo=github&label=followers&color=blue" alt="followers">
   <img src="https://img.shields.io/github/stars/BayonetArch?style=flat-square&logo=github&label=stars&color=yellow" alt="stars">
-  <img src="https://img.shields.io/github/repos/BayonetArch?style=flat-square&logo=github&label=repos&color=green" alt="repos">
-  <img src="https://img.shields.io/github/last-commit/BayonetArch?style=flat-square&label=last%20commit&color=blueviolet" alt="last commit">
 </p>
 
 ---
 
 ## 👋 Hey there
 
-I'm **Sudip Paudel** — a full-stack and systems developer from **Nepal 🇳🇵**.
-My GitHub bio is two words long: <sub>i like unix stuff.</sub>
+I'm **Sudip Paudel** a full-stack and systems developer from **Nepal 🇳🇵**.
 
 I work across the whole stack, but my main focus is **React + TypeScript** on one side of the
 wire and **Rust or C** on the other, and being the person who can debug both.
 
 I care about **readable code**, **honest benchmarks**, and shipping things that still make sense
-six months later. Most of what I build is tooling — terminal utilities, editor configs, and
+six months later. Most of what I build is tooling, terminal utilities, editor configs, and
 small programs that remove a papercut I've personally hit too many times.
 
 ---
@@ -51,16 +48,21 @@ small programs that remove a papercut I've personally hit too many times.
 
 <img src="https://skillicons.dev/icons?i=rust,c,ts,js,lua,go,python,react,nextjs,tailwind,git,linux,gnubash,neovim&theme=dark" alt="stack">
 
-| Layer | What I reach for |
-|---|---|
-| **Systems** | `Rust` · `C` · `Go` · `Shell` |
-| **Frontend** | `TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` |
-| **Config & glue** | `Lua` (Neovim) · `Python` (automation) · `TOML` |
-| **Where I run** | `Linux` · `Wayland` / `Hyprland` · `Termux` on Android |
-| **Interests** | Performance · Tooling · Backend |
 
-> Most of my repos are **Rust** (9 of them), then **Shell**, **C**, and **Lua**.
-> A few experiments in **Go** and **Python** live here too.
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BayonetArch&theme=rose_pine" alt="profile details" width="320">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BayonetArch&theme=rose_pine" alt="repos per language" width="240">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BayonetArch&theme=rose_pine" alt="productive time" width="240">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BayonetArch&theme=rose_pine&hide_border=true" alt="contribution streak">
+</p>
 
 ---
 
@@ -144,7 +146,7 @@ small programs that remove a papercut I've personally hit too many times.
         Type a title, and the query is debounced against the OMDb API. Built with
         <b>React 19</b>, <b>Vite</b> and <code>react-router-dom</code>, styled with CSS Modules
         and animated with the <b>View Transitions API</b>. Deployed on Vercel. This one's a
-        learning project — the older version was vanilla.
+        learning project the older version was vanilla.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
@@ -161,7 +163,7 @@ small programs that remove a papercut I've personally hit too many times.
   </tr>
 </table>
 
-### 🎥 Neo Kut — work in progress
+### 🎥 Neo Kut (work in progress)
 
 A **native video editor written in Rust**, and my most ambitious project so far.
 Video pipeline via `gstreamer-rs`, GUI via `egui`, cross-platform windowing via `winit`.
@@ -173,63 +175,41 @@ It's still a solo WIP and not public yet, but the entire build is documented liv
 
 ---
 
+## 📦 crates.io
+
+Five published crates mostly terminal plumbing, all MIT.
+
+| Crate | Description | 📦 Downloads |
+|---|---|---|
+| [`hypr_zoomer`](https://github.com/BayonetArch/hypr_zoomer) | Wayland screen magnification, zoom & live annotation | <img src="https://img.shields.io/crates/d/hypr_zoomer?style=flat-square&color=orange" alt="hypr_zoomer downloads"> |
+| [`simple_term_attr`](https://github.com/BayonetArch/simple_term_attr) | Terminal attributes. clear, move, colours | <img src="https://img.shields.io/crates/d/simple_term_attr?style=flat-square&color=orange" alt="simple_term_attr downloads"> |
+| [`spb`](https://github.com/BayonetArch/spb) | A small progress bar that drops into any project | <img src="https://img.shields.io/crates/d/spb?style=flat-square&color=orange" alt="spb downloads"> |
+| [`readable_time`](https://github.com/BayonetArch/readable_time) | Date & time without the dependency headache | <img src="https://img.shields.io/crates/d/readable_time?style=flat-square&color=orange" alt="readable_time downloads"> |
+| [`simplert`](https://github.com/BayonetArch/simplert) | A minimal CLI alarm clock and timer | <img src="https://img.shields.io/crates/d/simplert?style=flat-square&color=orange" alt="simplert downloads"> |
+
+
+
 ## 🧪 More experiments
 
-Everything else I've been poking at — small utilities, libs, and configs.
+Everything else I've been poking at small utilities, libs, and configs.
 
 | Repo | What it is | Lang |
 |---|---|---|
 | [`beer`](https://github.com/BayonetArch/beer) | A fast TUI text editor *(paused, will return)* | Rust |
 | [`cinit`](https://github.com/BayonetArch/cinit) | Scaffolds a C project with a sane structure | Rust |
-| [`rrg`](https://github.com/BayonetArch/rrg) | `rip`‑`ripgrep` | Rust |
+| [`rrg`](https://github.com/BayonetArch/rrg) | `rip`‑`ripgrep`,a learning project tool | Rust |
 | [`simplert`](https://github.com/BayonetArch/simplert) | Minimal CLI alarm clock & timer for Linux | Rust |
 | [`cx.h`](https://github.com/BayonetArch/cx.h) | An essential single header file for C projects | C |
 | [`c-sims`](https://github.com/BayonetArch/c-sims) | Simulations in C | C |
-| [`nvim-remote`](https://github.com/BayonetArch/nvim-remote) | Neovim, driven from your phone | Lua |
 | [`termux-nvim-setup`](https://github.com/BayonetArch/termux-nvim-setup) | Neovim in Termux with LSP support ⭐ | Lua |
 | [`tx-dev`](https://github.com/BayonetArch/tx-dev) | Dev setup for Termux, with all the essential configs | Shell |
 | [`mini-react`](https://github.com/BayonetArch/mini-react) | Bootstraps a React project with clean state | Shell |
-| [`go-bub`](https://github.com/BayonetArch/go-bub) | A Charm **Bubble Tea** TUI shell, with a live Kathmandu clock | Go |
 | [`CleanTab`](https://github.com/BayonetArch/CleanTab) | Chrome new-tab with just a wallpaper, Rosé Pine theme | HTML |
 | [`insta_upload`](https://github.com/BayonetArch/insta_upload) | Script to automate Instagram reel uploads | Python |
-| [`dircolor`](https://github.com/BayonetArch/dircolor) | Slightly modified Bliss dircolors | — |
 
 ---
 
-## 📦 crates.io
 
-Five published crates — mostly terminal plumbing, all MIT.
-
-| Crate | Description | 📦 Downloads |
-|---|---|---|
-| [`hypr_zoomer`](https://github.com/BayonetArch/hypr_zoomer) | Wayland screen magnification, zoom & live annotation | <img src="https://img.shields.io/crates/d/hypr_zoomer?style=flat-square&color=orange" alt="hypr_zoomer downloads"> |
-| [`simple_term_attr`](https://github.com/BayonetArch/simple_term_attr) | Terminal attributes — clear, move, colours | <img src="https://img.shields.io/crates/d/simple_term_attr?style=flat-square&color=orange" alt="simple_term_attr downloads"> |
-| [`spb`](https://github.com/BayonetArch/spb) | A small progress bar that drops into any project | <img src="https://img.shields.io/crates/d/spb?style=flat-square&color=orange" alt="spb downloads"> |
-| [`readable_time`](https://github.com/BayonetArch/readable_time) | Date & time without the dependency headache | <img src="https://img.shields.io/crates/d/readable_time?style=flat-square&color=orange" alt="readable_time downloads"> |
-| [`simplert`](https://github.com/BayonetArch/simplert) | A minimal CLI alarm clock and timer | <img src="https://img.shields.io/crates/d/simplert?style=flat-square&color=orange" alt="simplert downloads"> |
-
-```toml
-# Cargo.toml
-[dependencies]
-spb = "0.1"                # progress bar
-simple_term_attr = "0.1"   # clear / move / colours
-```
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BayonetArch&theme=tokyonight" alt="profile details" width="320">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BayonetArch&theme=tokyonight" alt="repos per language" width="240">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BayonetArch&theme=tokyonight" alt="productive time" width="240">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BayonetArch&theme=tokyonight&hide_border=true" alt="contribution streak">
-</p>
-
----
 
 ## 📬 Say hi
 
@@ -245,7 +225,7 @@ Open to **freelance work** and **full-time roles** involving full-stack or syste
 
 <div align="center">
   <sub>
-    Hand-written with <code>vim</code>, Neovim config, and unreasonable amounts of patience.<br>
-    Banner drawn in SVG. <code>i like unix stuff.</code>
+    Hand-written with <code>neovim</code>.
+    Banner drawn in SVG. 
   </sub>
 </div>
