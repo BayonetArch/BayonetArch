@@ -16,7 +16,7 @@
     <text x="32" y="58" fill="#c4a7e7">$</text>
     <text x="54" y="58" fill="#e0def4">whoami</text>
 
-    <text x="54" y="88" fill="#e0def4">sudip</text>
+    <text x="54" y="88" fill="#e0def4">sudip </text>
     <text x="105" y="88" fill="#908caa">- a full stack + systems developer</text>
 
     <text x="32" y="118" fill="#c4a7e7">$</text>
@@ -35,12 +35,9 @@
     <text x="258" y="208" fill="#6e6a86">·</text>
     <text x="268" y="208" fill="#e0def4">react/</text>
     <text x="309" y="208" fill="#6e6a86">·</text>
-    <text x="268" y="208" fill="#e0def4">next.js/</text>
-    <text x="309" y="208" fill="#6e6a86">·</text>
-    <text x="319" y="208" fill="#e0def4">shell/</text>
 
     <text x="32" y="238" fill="#c4a7e7">$</text>
-    <text x="54" y="238" fill="#e0def4">bun dev</text>
+    <text x="54" y="238" fill="#e0def4">sudo ./build.sh</text>
     <rect x="210" y="224" width="10" height="18" rx="1.5" fill="#c4a7e7">
       <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" keyTimes="0;0.45;0.45;1" repeatCount="indefinite"/>
     </rect>
