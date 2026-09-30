@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="sudip@bayonetarch:~" width="880">
-</p>
-
-<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1800&center=true&multiline=true&width=560&height=90&lines=rust+%E2%80%A6+c+%E2%80%A6+typescript+%E2%80%A6+lua+%E2%80%A6+shell%0Atermux+%E2%80%A6+wayland+%E2%80%A6+neovim+%E2%80%A6+tmux&vCenter=true"
     alt="rust / termux / building small tools"
@@ -40,13 +36,6 @@ I work across the whole stack, but my main focus is **React** and **TypeScript**
 I care about **fast, clean and readable code**, while shipping things that still make sense
 six months later. Most of what I build is tooling, terminal utilities, editor configs, and
 small programs that remove a papercut I've personally hit too many times.
-
----
-
-## <img src="./assets/icons/stack.svg" width="20" height="20" alt=""> Stack
-
-<img src="https://skillicons.dev/icons?i=rust,c,ts,js,lua,go,python,react,nextjs,tailwind,git,linux,gnubash,neovim&theme=dark" alt="stack">
-
 
 
 ---
@@ -187,29 +176,6 @@ Five published crates mostly terminal plumbing, all MIT.
 | [`simplert`](https://github.com/BayonetArch/simplert) | A minimal CLI alarm clock and timer | <img src="https://img.shields.io/crates/d/simplert?style=flat-square&color=orange" alt="simplert downloads"> |
 
 
-
-## <img src="./assets/icons/flask.svg" width="20" height="20" alt=""> More experiments
-
-Everything else I've been poking at small utilities, libs, and configs.
-
-| Repo | What it is | Lang |
-|---|---|---|
-| [`beer`](https://github.com/BayonetArch/beer) | A fast TUI text editor *(paused, will return)* | Rust |
-| [`cinit`](https://github.com/BayonetArch/cinit) | Scaffolds a C project with a sane structure | Rust |
-| [`rrg`](https://github.com/BayonetArch/rrg) | `rip`‑`ripgrep`,a learning project tool | Rust |
-| [`simplert`](https://github.com/BayonetArch/simplert) | Minimal CLI alarm clock & timer for Linux | Rust |
-| [`cx.h`](https://github.com/BayonetArch/cx.h) | An essential single header file for C projects | C |
-| [`c-sims`](https://github.com/BayonetArch/c-sims) | Simulations in C | C |
-| [`termux-nvim-setup`](https://github.com/BayonetArch/termux-nvim-setup) | Neovim in Termux with LSP support <img src="./assets/icons/featured.svg" width="14" height="14" alt=""> | Lua |
-| [`tx-dev`](https://github.com/BayonetArch/tx-dev) | Dev setup for Termux, with all the essential configs | Shell |
-| [`mini-react`](https://github.com/BayonetArch/mini-react) | Bootstraps a React project with clean state | Shell |
-| [`CleanTab`](https://github.com/BayonetArch/CleanTab) | Chrome new-tab with just a wallpaper, Rosé Pine theme | HTML |
-| [`insta_upload`](https://github.com/BayonetArch/insta_upload) | Script to automate Instagram reel uploads | Python |
-
----
-
-
-
 ## <img src="./assets/icons/contact.svg" width="20" height="20" alt=""> Say hi
 
 Open to **freelance work** and **full-time roles** involving full-stack or systems engineering.
@@ -219,12 +185,3 @@ Open to **freelance work** and **full-time roles** involving full-stack or syste
 <img src="./assets/icons/briefcase.svg" width="16" height="16" alt="">[linkedin.com/in/sudip-paudel](https://www.linkedin.com/in/sudip-paudel-a149aa43a)<br>
 <img src="./assets/icons/contact.svg" width="16" height="16" alt="">[sudipxd123@gmail.com](mailto:sudipxd123@gmail.com)<br>
 <img src="./assets/icons/play.svg" width="16" height="16" alt="">[Neo Kut devlog on YouTube](https://www.youtube.com/playlist?list=PLfAdp-IXqUzs)
-
----
-
-<div align="center">
-  <sub>
-    Hand-written with <code>neovim</code>.
-    Banner drawn in SVG. 
-  </sub>
-</div>
