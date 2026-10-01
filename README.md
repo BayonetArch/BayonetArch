@@ -151,7 +151,7 @@ small programs that remove a papercut I've personally hit too many times.
   </tr>
 </table>
 
-### <img src="./assets/icons/nekout.svg" width="17" height="17" alt=""> Neo Kut (work in progress)
+### <img src="./assets/icons/nekout.svg" width="17" height="17" alt=""> Last Kut (work in progress)
 
 A **native video editor written in Rust**, and my most ambitious project so far.
 Video pipeline via `gstreamer-rs`, GUI via `egui`, cross-platform windowing via `winit`.
@@ -159,7 +159,7 @@ The goal is an open-source NLE with no annoying popups, upscaling, or telemetry.
 
 It's still a solo WIP and not public yet, but the entire build is documented live:
 
-[![Neo Kut devlog](https://img.shields.io/badge/YouTube-devlog-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLfAdp-IXqUzs)
+[![Last Kut devlog](https://img.shields.io/badge/YouTube-devlog-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLfAdp-IXqUzs)
 
 ---
 
@@ -184,4 +184,4 @@ Open to **freelance work** and **full-time roles** involving full-stack or syste
 <img src="./assets/icons/git.svg" width="16" height="16" alt="">[github.com/BayonetArch](https://github.com/BayonetArch) — code, mostly<br>
 <img src="./assets/icons/briefcase.svg" width="16" height="16" alt="">[linkedin.com/in/sudip-paudel](https://www.linkedin.com/in/sudip-paudel-a149aa43a)<br>
 <img src="./assets/icons/contact.svg" width="16" height="16" alt="">[sudipxd123@gmail.com](mailto:sudipxd123@gmail.com)<br>
-<img src="./assets/icons/play.svg" width="16" height="16" alt="">[Neo Kut devlog on YouTube](https://www.youtube.com/playlist?list=PLfAdp-IXqUzs)
+<img src="./assets/icons/play.svg" width="16" height="16" alt="">[Last Kut devlog on YouTube](https://www.youtube.com/playlist?list=PLfAdp-IXqUzs)
